@@ -44,3 +44,6 @@ Careers](https://www.coursera.org/articles/software-development)
 [coursera_article]: 
 https://www.coursera.org/articles/software-developer-vs-software-engineer
 
+## Comment by Yang Hu
+
+The Coursera article provides a comprehensive comparison between software developers and software engineers, highlighting that while both roles involve creating and developing systems and applications, software engineers often work on a larger scale, designing entire systems, whereas software developers focus more on designing specific computer systems and application software. This distinction is crucial for individuals considering a career in the tech industry, as it underscores the varying scopes and responsibilities associated with each role.
